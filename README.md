@@ -14,19 +14,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
   <a href="https://www.linkedin.com/in/adnane-bouali/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      src="https://github.com/adnanebouali/Images/blob/master/linkedin.png?raw=true"
+       height="40" width="40" /></a>
+ 
   <a href="https://www.facebook.com/adnane.bouali.dz/" target="_blank"><img align="center"
       src="https://github.com/adnanebouali/Images/blob/master/facebook.png?raw=true"
        height="40" width="40" /></a>
+ 
   <a href="https://www.instagram.com/_adnane_bouali/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_adnane_bouali" height="30" width="40" /></a>
+      src="https://github.com/adnanebouali/Images/blob/master/instagram.png?raw=true"
+      alt="_adnane_bouali" height="40" width="40" /></a>
 
  <a href="https://twitter.com/adnane_bouali_" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://github.com/adnanebouali/Images/blob/master/twitter.png?raw=true"
       alt="adnane_bouali_" height="30" width="40" /></a>
+
+  <a href="https://codepen.io/adnane-bouali" target="blank"><img align="center"
+      src="https://github.com/adnanebouali/Images/blob/master/codepen.png?raw=true"
+       height="30" width="40" /></a>
+  
 </p>
 
 <br>
