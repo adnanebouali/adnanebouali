@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning Web Development and other programming languages.
 
-- 📫 Email me **adnanbouali1@gmail.com** .
+- 📫 Email me at: **adnanbouali1@gmail.com** .
 
 
 <br>
