@@ -19,7 +19,7 @@
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.facebook.com/adnane.bouali.dz/" target="blank"><img align="center"
       src="https://github.com/adnanebouali/Images/blob/master/facebook.png?raw=true"
-       height="30" width="40" /></a>
+       height="50" width="50" /></a>
   <a href="https://www.instagram.com/_adnane_bouali/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_adnane_bouali" height="30" width="40" /></a>
