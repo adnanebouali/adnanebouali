@@ -2,12 +2,14 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<p><img align="right" src="https://github.com/adnanebouali/Images/blob/master/giphy.gif?raw=true" alt="adam-pw" /></p>
+
 <br>
 
 - 👨‍💻 I’m currently learning Web Development and other programming languages.
 
-- 📫 Email me at: **adnanbouali1@gmail.com** .
+- 📫 Email me at: **boualiadnanedz@gmail.com** .
 
 
 <br>
