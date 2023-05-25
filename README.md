@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently learning Web Development and other programming languages.
 
-- 🖥️ My Website: **https://adnanebouali.netlify.app** .
+- 🖥️ My Website: **https://adnane.site** .
 
 - 📫 Email me at: **boualiadnanedz@gmail.com** .
 
