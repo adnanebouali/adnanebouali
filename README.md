@@ -56,9 +56,7 @@
   <img
       src="https://github.com/adnanebouali/Images/blob/master/icons8-git-480.png?raw=true"
        width="40" height="40" />
- <img
-      src="https://github.com/adnanebouali/Images/blob/master/icons8-figma-480.png?raw=true"
-       width="40" height="40" />
+
  
    
 
