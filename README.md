@@ -32,11 +32,7 @@
        height="40" width="40" /></a>
   <a href="https://www.instagram.com/_adnane_bouali/" target="blank"><img align="center"
       src="https://github.com/adnanebouali/Images/blob/master/instagram.png?raw=true"
-      alt="_adnane_bouali" height="40" width="40" /></a>
-<a href="https://codepen.io/adnane-bouali" target="blank"><img align="center"
-      src="https://github.com/adnanebouali/Images/blob/master/codepen.png?raw=true"
-       height="40" width="40" /></a>
-  
+      alt="_adnane_bouali" height="40" width="40" /></a>  
 </p>
 
 <br>
