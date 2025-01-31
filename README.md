@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently learning Web Development and other programming languages.
 
-- 🖥️ My Website: **https://adnane.site** .
+- 🖥️ My Website: **https://adnanebouali.netlify.app** .
 
 - 📫 Email me at: **boualiadnanedz@gmail.com** .
 
@@ -30,7 +30,7 @@
    <a href="https://www.facebook.com/adnane.bouali.dz/" target="_blank"><img align="center"
       src="https://github.com/adnanebouali/Images/blob/master/facebook.png?raw=true"
        height="40" width="40" /></a>
-  <a href="https://www.instagram.com/_adnane_bouali/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/adnane_bouali_/" target="blank"><img align="center"
       src="https://github.com/adnanebouali/Images/blob/master/instagram.png?raw=true"
       alt="_adnane_bouali" height="40" width="40" /></a>  
 </p>
